@@ -9,3 +9,10 @@ BERT, which stands for Bidirectional Encoder Representations from Transformers, 
 It is based on the Transformer architecture that uses self-attention mechanisms to capture relationships between words in a sequence, allowing for parallelization and more effective modeling of long-range dependencies.
 
 The other reason why i used BERT for this project is that it has bidirectional pretraining, unlike traditional language models that are trained in a left-to-right or right-to-left manner, BERT is trained bidirectionally. It learns to predict missing words in a sentence by considering both the left and right contexts simultaneously. This bidirectional pretraining helps BERT capture richer contextual information.
+
+# Components of the repository
+
+The project repository includes the following components:
+
+Dataset/: This directory holds the dataset and all features explained in Dataset_Features.txt
+model_training_evaluation.ipynb: The Jupyter Notebook used for building and analyzing the sentiment classifier model.
