@@ -1,5 +1,5 @@
 # Sentiment-Analysis
-This project perform Sentiment analysis on data in Moroccan dialect (Darija), it involves leveraging advanced techniques in natural language processing (NLP) and machine learning. The BERT (Bidirectional Encoder Representations from Transformers) model is particularly well-suited for this task.
+This project performs Sentiment analysis on data in Moroccan dialect (Darija), it involves leveraging advanced techniques in natural language processing (NLP) and machine learning. The BERT (Bidirectional Encoder Representations from Transformers) model is particularly well-suited for this task.
 
 # BERT Model
 ![image](https://github.com/boukhdimiMeryem/Sentiment-Analysis/assets/93484500/9cd7d09f-1ec0-48ab-a3a9-678c42e07b9d)
