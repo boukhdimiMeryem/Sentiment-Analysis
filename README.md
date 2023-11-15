@@ -8,4 +8,4 @@ BERT, which stands for Bidirectional Encoder Representations from Transformers, 
 
 It is based on the Transformer architecture that uses self-attention mechanisms to capture relationships between words in a sequence, allowing for parallelization and more effective modeling of long-range dependencies.
 
-BERT's other advantage is that it has bidirectional pretraining, unlike traditional language models that are trained in a left-to-right or right-to-left manner, BERT is trained bidirectionally. It learns to predict missing words in a sentence by considering both the left and right contexts simultaneously. This bidirectional pretraining helps BERT capture richer contextual information.
+The other reason why i used BERT for this project is that it has bidirectional pretraining, unlike traditional language models that are trained in a left-to-right or right-to-left manner, BERT is trained bidirectionally. It learns to predict missing words in a sentence by considering both the left and right contexts simultaneously. This bidirectional pretraining helps BERT capture richer contextual information.
